@@ -9,7 +9,7 @@ namespace Adler.System.Ship.Data
         {
         }
 
-        public DbSet<RollList> RollList {get; set;}
+        public DbSet<RollListModel> RollList {get; set;}
         public DbSet<CrewMembers> CrewMember {get; set;}
         public DbSet<CrewContact> CrewContact {get; set;}
     }
