@@ -1,7 +1,6 @@
 namespace Adler.System.Ship.Models
 {
-    public class CrewContact
-    {
-
-    }
+	public class CrewContact
+	{
+	}
 }

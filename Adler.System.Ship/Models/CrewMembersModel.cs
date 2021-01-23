@@ -1,9 +1,6 @@
-using System;
 namespace Adler.System.Ship.Models
 {
-    public class CrewMembers
-    {
-
-    }
-    
+	public class CrewMembers
+	{
+	}
 }
